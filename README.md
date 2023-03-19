@@ -1,3 +1,4 @@
+<img width="200%" alt="heading" src="https://user-images.githubusercontent.com/81260857/226187379-4389014b-82b1-4777-996f-e17b84baea7a.gif">
 <h1 align="center">Hi 👋, I'm Samridh Gupta</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
