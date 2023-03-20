@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Weather App](https://samridh1053.github.io/WeatherApp/)
+- 🔭 I’m currently developing a [Weather App](https://samridh1053.github.io/WeatherApp/)
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently advancing my **Data Structures and Algorithm skills**
 
 - 💬 Ask me about **DSA**
 
